@@ -4,7 +4,7 @@ This respiratory dedicates in the marketing analytics projects Jasper and his te
 From Project 1 to 5, we extensively used **SAS** to clean up, sort out, and model with various regressions(Linear Regression Models, Generalized Linear Models, Mixture Regression Models etc.); we used **Advanced Excel** (Pivot Table, macros, VLOOKUP, etc) and **Tableau** to showcase our findings to various stakeholders.  
 
 
-Project 1
+# **Project 1**
 
   Topic: Retail pricing decisions based on point-of-sales scanner data
   
@@ -13,7 +13,7 @@ Project 1
   Software: SAS
   
   
-Project 2
+# **Project 2**
 
   Topic: Analyzing print ad designs using eye-movement data
   
@@ -22,7 +22,7 @@ Project 2
   Software: SAS
   
   
-Project 3
+# **Project 3**
 
   Topic: Evaluating the effectiveness of sales promotions based on scanner panel data
   
@@ -31,7 +31,7 @@ Project 3
   Software: SAS
   
   
-Project 4
+# **Project 4**
 
   Topic: International market segmentation for global retailers
   
@@ -40,7 +40,7 @@ Project 4
   Software: GLIMMIX, Tableau
   
   
-Project 5
+# **Project 5**
 
   Topic: New product development using choice-based conjoint analysis for coffee makers
   
