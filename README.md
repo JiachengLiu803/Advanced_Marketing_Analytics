@@ -3,6 +3,7 @@ This respiratory dedicates in the marketing analytics projects Jasper and his te
 
 From Project 1 to 5, we extensively used **SAS** to clean up, sort out, and model with various regressions(Linear Regression Models, Generalized Linear Models, Mixture Regression Models etc.); we used **Advanced Excel** (Pivot Table, macros, VLOOKUP, etc) and **Tableau** to showcase our findings to various stakeholders.  
 
+Our projects are well-formated that include sections of **executive summary**, **Intro**, **methodology**, **key findings**, **recommendations** and it was intented preparing in a level of standard for the company stakeholders. 
 
 # **Project 1**
 
