@@ -5,28 +5,45 @@ From Project 1 to 5, we extensively used **SAS** to clean up, sort out, and mode
 
 
 Project 1
-  **Topic**: Retail pricing decisions based on point-of-sales scanner data
+
+  Topic: Retail pricing decisions based on point-of-sales scanner data
   
-  ** Models Involved**: Linear, semi-log, log-log SAS regression models
+  Models Involved: Linear, semi-log, log-log SAS regression models
   
-  **Software**: SAS
+  Software: SAS
+  
   
 Project 2
-  **Topic**: Analyzing print ad designs using eye-movement data
-  ** Models Involved**: Generalized linear models: SAS Poisson regression, logit model
-  **Software**: SAS
+
+  Topic: Analyzing print ad designs using eye-movement data
+  
+  Models Involved: Generalized linear models: SAS Poisson regression, logit model
+  
+  Software: SAS
+  
   
 Project 3
-  **Topic**: Evaluating the effectiveness of sales promotions based on scanner panel data
-  ** Models Involved**: Models of incidence, choice and quantity: semi-log regression, logit model, multinomial logit model
-  **Software**: SAS
+
+  Topic: Evaluating the effectiveness of sales promotions based on scanner panel data
+  
+  Models Involved: Models of incidence, choice and quantity: semi-log regression, logit model, multinomial logit model
+  
+  Software: SAS
+  
   
 Project 4
-  **Topic**: International market segmentation for global retailers
-  **Models Involved**: Mixture Regression Models
-  **Software**: GLIMMIX, Tableau
+
+  Topic: International market segmentation for global retailers
+  
+  Models Involved: Mixture Regression Models
+  
+  Software: GLIMMIX, Tableau
+  
   
 Project 5
-  **Topic**: New product development using choice-based conjoint analysis for coffee makers
-  **Models Involved**: Multinomial logit (MNL) models and mixture MNL models
-  **Software**: GLIMMIX
+
+  Topic: New product development using choice-based conjoint analysis for coffee makers
+  
+  Models Involved: Multinomial logit (MNL) models and mixture MNL models
+  
+  Software: GLIMMIX
