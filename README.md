@@ -6,7 +6,9 @@ From Project 1 to 5, we extensively used **SAS** to clean up, sort out, and mode
 
 Project 1
   **Topic**: Retail pricing decisions based on point-of-sales scanner data
+  
   ** Models Involved**: Linear, semi-log, log-log SAS regression models
+  
   **Software**: SAS
   
 Project 2
